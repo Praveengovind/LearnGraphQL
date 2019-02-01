@@ -1,4 +1,4 @@
-console.log("Welcome Back to Graph QL");
+console.log("Welcome Back to Graph QL. Yeah it begins....");
 
 import { GraphQLServer } from 'graphql-yoga'
 
