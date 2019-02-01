@@ -2,7 +2,7 @@ console.log("Welcome Back to Graph QL. Yeah it begins....");
 
 import { GraphQLServer } from 'graphql-yoga'
 
-//Users dummy data
+//Users dummy data for testing
 const users = [
     {
         id:1,
