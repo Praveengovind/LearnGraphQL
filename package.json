@@ -1,0 +1,20 @@
+{
+  "name": "testql",
+  "version": "1.0.0",
+  "description": "test Graph QL",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "graphql-yoga": "^1.14.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js --exec babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveenraj.G",
+  "license": "ISC"
+}
